@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195600702842",
+    "project_id": "currenseepro",
+    "storage_bucket": "currenseepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195600702842:android:3378bc0d4056f7f1a44ac3",
+        "android_client_info": {
+          "package_name": "com.example.currenseepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMa07A2DMN76wegpeZRkvsreD6Z1CRt30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
